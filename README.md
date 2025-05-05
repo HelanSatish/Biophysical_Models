@@ -9,3 +9,7 @@ This MATLAB code is derived from a CellML implementation of the O'Hara-Rudy Mode
 
 For a more detailed understanding, refer to "Simulation of the Undiseased Human Cardiac Ventricular Action Potential: Model Formulation and Experimental Validation" by 
 Thomas O'Hara, László Virág, András Varró and Yoram Rudy.
+
+Ten Tusscher Model (2d tissue)
+
+This initial version was a preliminary implementation of the Ten Tusscher 2004 model, using MATLAB code generated from the CellML format available on the PhysioNet repository. It represents an early attempt to extend the single-cell model into a two-dimensional tissue simulation. While the code was functional, it served primarily as a proof of concept and was subsequently refined and optimized in later versions. This code was developed to simulate an endocardial tissue model with a grid size of 100×100. It also records the simulation output as a video file named endoparallel.avi. The most recent version of the potential update is available at the following link https://github.com/HelanSatish/P535T.
